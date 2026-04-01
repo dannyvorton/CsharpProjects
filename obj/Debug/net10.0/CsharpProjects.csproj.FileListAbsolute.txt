@@ -1,0 +1,14 @@
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/bin/Debug/net10.0/CsharpProjects
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/bin/Debug/net10.0/CsharpProjects.deps.json
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/bin/Debug/net10.0/CsharpProjects.runtimeconfig.json
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/bin/Debug/net10.0/CsharpProjects.dll
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/bin/Debug/net10.0/CsharpProjects.pdb
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.AssemblyInfoInputs.cache
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.AssemblyInfo.cs
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.csproj.CoreCompileInputs.cache
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.dll
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/refint/CsharpProjects.dll
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.pdb
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.genruntimeconfig.cache
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/ref/CsharpProjects.dll
