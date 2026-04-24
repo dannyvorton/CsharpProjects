@@ -12,3 +12,4 @@
 /Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.pdb
 /Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.genruntimeconfig.cache
 /Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/ref/CsharpProjects.dll
+/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/Debug/net10.0/CsharpProjects.sourcelink.json
