@@ -24,7 +24,7 @@ class RandomNumber
             Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days.");
             Console.WriteLine($"Renew now and save {discountPercentage}%!");
         }
-        else if (daysUntilExpiration <= 10)
+        else
         {
             Console.WriteLine("Your subscription will expire soon. Renew Now!");
         }
