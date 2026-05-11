@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dvo/GitHub/CsharpProjects/CsharpProjects.csproj": {}
+    "/Users/dan.orton/GitHub/continuing-education/CsharpProjects/CsharpProjects.csproj": {}
   },
   "projects": {
-    "/Users/dvo/GitHub/CsharpProjects/CsharpProjects.csproj": {
+    "/Users/dan.orton/GitHub/continuing-education/CsharpProjects/CsharpProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dvo/GitHub/CsharpProjects/CsharpProjects.csproj",
+        "projectUniqueName": "/Users/dan.orton/GitHub/continuing-education/CsharpProjects/CsharpProjects.csproj",
         "projectName": "CsharpProjects",
-        "projectPath": "/Users/dvo/GitHub/CsharpProjects/CsharpProjects.csproj",
-        "packagesPath": "/Users/dvo/.nuget/packages/",
-        "outputPath": "/Users/dvo/GitHub/CsharpProjects/obj/",
+        "projectPath": "/Users/dan.orton/GitHub/continuing-education/CsharpProjects/CsharpProjects.csproj",
+        "packagesPath": "/Users/dan.orton/.nuget/packages/",
+        "outputPath": "/Users/dan.orton/GitHub/continuing-education/CsharpProjects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dvo/.nuget/NuGet/NuGet.Config"
+          "/Users/dan.orton/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
