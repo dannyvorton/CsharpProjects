@@ -7,5 +7,6 @@ class Program
         RandomNumber.Run();
         ArrayBasics.Run();
         FraudulentOrder.Run();
+        TestProject.Run();
     }
 }
