@@ -8,5 +8,6 @@ class Program
         ArrayBasics.Run();
         FraudulentOrder.Run();
         ReadableCode.Run();
+        ForEachIf.Run();
     }
 }
