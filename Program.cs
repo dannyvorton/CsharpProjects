@@ -9,5 +9,6 @@ class Program
         FraudulentOrder.Run();
         ReadableCode.Run();
         ForEachIf.Run();
+        ForEachIf37.Run();
     }
 }
